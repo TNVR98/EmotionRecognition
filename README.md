@@ -7,7 +7,7 @@ the emotion on the human face of an image passed to it.
 -  Random Forest
 
 ### Feature Extractors used: 
- -ScaleInvariant Feature Transform (SIFT) 
+ - ScaleInvariant Feature Transform (SIFT) 
  - Histogram of Oriented Gradients (HOG)
 
 ### Full Lists of models trained: 
