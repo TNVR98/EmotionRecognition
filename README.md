@@ -8,8 +8,7 @@ https://drive.google.com/drive/folders/1fpUbjZ20LYIQ1rQYXuKBwLdzm7ZLCyf5
 The "GoogleColab" folder contains the code implementation of the project and the file "Tanvir_CV_report.pdf" inside the "report" folder contains the detailed report of the project. 
 
 ### Feature Extractors used: 
- - ScaleInvariant Feature Transform (SIFT):
-   
+ - ScaleInvariant Feature Transform (SIFT):  
  - Histogram of Oriented Gradients (HOG)
 
 ### The classifiers used are:
@@ -17,10 +16,21 @@ The "GoogleColab" folder contains the code implementation of the project and the
 -  Multilayer Perceptron (MLP)
 -  Random Forest
 
+### The list of the models trained are: 
+- HOG-SVM
+- SIFT-SVM
+- HOG-MLP
+- SIFT-MLP
+- HOG-Random Forest Classifier
+- SIFT-Random Forest Classifier
 
 ### Preview of models trained: 
-- 
+<img src='https://github.com/user-attachments/assets/447c3382-3ef1-41e6-8a17-2c6cfbf19eea' width='400'/> 
+<img src='https://github.com/user-attachments/assets/71a4197a-3c52-4351-a735-90eb3d36e657' width='400'/> 
+<img src='https://github.com/user-attachments/assets/bb53f60d-7b94-4d82-860a-e4d63f7166c0' width='400'/> 
+<img src='https://github.com/user-attachments/assets/f3a16f16-b472-457a-9f1d-c840d06fc175' width='400'/> 
 
+  
 
 
 
